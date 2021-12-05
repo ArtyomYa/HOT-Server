@@ -1,0 +1,35 @@
+C:\Users\artyo\Desktop\פרוייקט גמר HOT\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe.config
+C:\Users\artyo\Desktop\פרוייקט גמר HOT\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe
+C:\Users\artyo\Desktop\פרוייקט גמר HOT\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.pdb
+C:\Users\artyo\Desktop\פרוייקט גמר HOT\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csprojAssemblyReference.cache
+C:\Users\artyo\Desktop\פרוייקט גמר HOT\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\פרוייקט גמר HOT\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.exe
+C:\Users\artyo\Desktop\פרוייקט גמר HOT\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.pdb
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe.config
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.pdb
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csprojAssemblyReference.cache
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csproj.CoreCompileInputs.cache
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.exe
+C:\Users\lelch\OneDrive\שולחן העבודה\Project_Hot\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.pdb
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe.config
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.pdb
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csprojAssemblyReference.cache
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.exe
+C:\Users\artyo\Desktop\HOT Project\30.03.21\Server_side\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.pdb
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe.config
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.pdb
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csprojAssemblyReference.cache
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.exe
+C:\Users\artyo\Desktop\HOT Project\03.07.21\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.pdb
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe.config
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.exe
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Server_side\Project_HOT_Server\Project_HOT_Server\bin\Debug\Project_HOT_Server.pdb
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csprojAssemblyReference.cache
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.csproj.CoreCompileInputs.cache
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.exe
+C:\Users\artyo\Desktop\HOT Project\30.11.21\Server_side\Project_HOT_Server\Project_HOT_Server\obj\Debug\Project_HOT_Server.pdb
